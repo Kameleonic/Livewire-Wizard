@@ -15,9 +15,6 @@
 
 <body>
     <div>
-        <button class="btn btn-info" type="button">
-            Start Wizard
-        </button>
         @livewire('bootstrap-modal')
         @livewireScripts
     </div>
