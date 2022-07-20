@@ -22,7 +22,7 @@
                             <a class="nav-link {{ $currentSection != 4 ? '' : 'active' }}" href="#step3">Step 4</a>
                         </li>
                     </ul>
-                    <h5><strong>Laravel Livewire Bootstrap Modal Example - NiceSnippets.com</strong></h5>
+                    <h5 class="m-4 text-center"><strong>Registraion Wizard</strong></h5>
                 </div>
                 <div class="card-body">
                     <div class="row pt-3">
